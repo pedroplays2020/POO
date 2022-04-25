@@ -1,0 +1,7 @@
+C:\Users\pedro\source\repos\listadetarefas\listadetarefas\bin\Debug\listadetarefas.exe.config
+C:\Users\pedro\source\repos\listadetarefas\listadetarefas\bin\Debug\listadetarefas.exe
+C:\Users\pedro\source\repos\listadetarefas\listadetarefas\bin\Debug\listadetarefas.pdb
+C:\Users\pedro\source\repos\listadetarefas\listadetarefas\obj\Debug\listadetarefas.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\listadetarefas\listadetarefas\obj\Debug\listadetarefas.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\listadetarefas\listadetarefas\obj\Debug\listadetarefas.exe
+C:\Users\pedro\source\repos\listadetarefas\listadetarefas\obj\Debug\listadetarefas.pdb

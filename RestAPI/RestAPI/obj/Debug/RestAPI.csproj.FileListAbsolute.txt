@@ -1,0 +1,11 @@
+C:\Users\pedro\Desktop\gtg\RSI-Csharp-master\Projects\Console Apps\RestAPI\RestAPI\bin\Debug\RestAPI.exe.config
+C:\Users\pedro\Desktop\gtg\RSI-Csharp-master\Projects\Console Apps\RestAPI\RestAPI\bin\Debug\RestAPI.exe
+C:\Users\pedro\Desktop\gtg\RSI-Csharp-master\Projects\Console Apps\RestAPI\RestAPI\bin\Debug\RestAPI.pdb
+C:\Users\pedro\Desktop\gtg\RSI-Csharp-master\Projects\Console Apps\RestAPI\RestAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pedro\Desktop\gtg\RSI-Csharp-master\Projects\Console Apps\RestAPI\RestAPI\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\pedro\Desktop\gtg\RSI-Csharp-master\Projects\Console Apps\RestAPI\RestAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pedro\Desktop\gtg\RSI-Csharp-master\Projects\Console Apps\RestAPI\RestAPI\obj\Debug\RestAPI.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\gtg\RSI-Csharp-master\Projects\Console Apps\RestAPI\RestAPI\obj\Debug\RestAPI.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\gtg\RSI-Csharp-master\Projects\Console Apps\RestAPI\RestAPI\obj\Debug\RestAPI.csproj.CopyComplete
+C:\Users\pedro\Desktop\gtg\RSI-Csharp-master\Projects\Console Apps\RestAPI\RestAPI\obj\Debug\RestAPI.exe
+C:\Users\pedro\Desktop\gtg\RSI-Csharp-master\Projects\Console Apps\RestAPI\RestAPI\obj\Debug\RestAPI.pdb

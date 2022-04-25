@@ -1,0 +1,7 @@
+C:\Users\pedro\Desktop\RSI-Csharp-master\Projects\Console Apps\MySQL\MySQL\MySQL\bin\Debug\MySQL.exe.config
+C:\Users\pedro\Desktop\RSI-Csharp-master\Projects\Console Apps\MySQL\MySQL\MySQL\bin\Debug\MySQL.exe
+C:\Users\pedro\Desktop\RSI-Csharp-master\Projects\Console Apps\MySQL\MySQL\MySQL\bin\Debug\MySQL.pdb
+C:\Users\pedro\Desktop\RSI-Csharp-master\Projects\Console Apps\MySQL\MySQL\MySQL\obj\Debug\MySQL.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\RSI-Csharp-master\Projects\Console Apps\MySQL\MySQL\MySQL\obj\Debug\MySQL.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\RSI-Csharp-master\Projects\Console Apps\MySQL\MySQL\MySQL\obj\Debug\MySQL.exe
+C:\Users\pedro\Desktop\RSI-Csharp-master\Projects\Console Apps\MySQL\MySQL\MySQL\obj\Debug\MySQL.pdb
